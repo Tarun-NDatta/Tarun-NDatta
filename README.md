@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Tarun, a grad who loves working with numbers and F1.
+
+I build ETL pipelines and data engineering projects.
+
+My preferred tech stack is django/flask, python, tailwind and typescript (for the dashboard).
+
+I've got a couple (public) projects while I focus on other projects in private.
+
